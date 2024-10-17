@@ -1,4 +1,5 @@
 GitHub Repository Data Analyzer
+
 This Python application interacts with the GitHub API to retrieve, process, and analyze repository data for a given organization. It handles authentication, pagination, and processes large datasets efficiently. The program returns the total number of repositories, total stars, the most popular programming language, and the top 5 most-starred repositories.
 
 Prerequisites
